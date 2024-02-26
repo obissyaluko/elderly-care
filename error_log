@@ -1,0 +1,17 @@
+[23-Feb-2024 15:04:20 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/topaygvc/public_html/elderly-care/connection.php on line 8
+[23-Feb-2024 15:04:30 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/topaygvc/public_html/elderly-care/connection.php on line 8
+[23-Feb-2024 15:05:47 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/topaygvc/public_html/elderly-care/connection.php on line 8
+[23-Feb-2024 15:05:47 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/topaygvc/public_html/elderly-care/signup.php:16
+Stack trace:
+#0 /home/topaygvc/public_html/elderly-care/signup.php(16): mysqli_query()
+#1 {main}
+  thrown in /home/topaygvc/public_html/elderly-care/signup.php on line 16
+[23-Feb-2024 15:09:43 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/topaygvc/public_html/elderly-care/connection.php on line 8
+[23-Feb-2024 15:09:46 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/topaygvc/public_html/elderly-care/connection.php on line 8
+[23-Feb-2024 15:10:10 America/New_York] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/topaygvc/public_html/elderly-care/connection.php on line 8
+[23-Feb-2024 15:10:10 America/New_York] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home/topaygvc/public_html/elderly-care/signup.php:16
+Stack trace:
+#0 /home/topaygvc/public_html/elderly-care/signup.php(16): mysqli_query()
+#1 {main}
+  thrown in /home/topaygvc/public_html/elderly-care/signup.php on line 16
+[26-Feb-2024 08:14:03 America/New_York] PHP Warning:  Undefined array key "userid" in /home/topaygvc/public_html/elderly-care/c-notifications.php on line 7
